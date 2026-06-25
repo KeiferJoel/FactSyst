@@ -1,0 +1,1 @@
+<facturas><factura><cliente>Juan</cliente><producto>cover</producto><cantidad>2</cantidad><precio>500.0</precio><total>1000.0</total></factura><factura><cliente>Pedro</cliente><producto>cover 2</producto><cantidad>3</cantidad><precio>500.0</precio><total>1500.0</total></factura></facturas>
