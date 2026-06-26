@@ -1,4 +1,4 @@
-# Sistema de Facturación XML
+# FactSyst 
 
 Versión: 1.0.0
 
