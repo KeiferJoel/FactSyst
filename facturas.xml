@@ -1,1 +1,38 @@
-<facturas><factura><cliente>Juan</cliente><producto>cover</producto><cantidad>2</cantidad><precio>500.0</precio><total>1000.0</total></factura><factura><cliente>Pedro</cliente><producto>cover 2</producto><cantidad>3</cantidad><precio>500.0</precio><total>1500.0</total></factura></facturas>
+<?xml version='1.0' encoding='utf-8'?>
+<facturas>
+    <factura>
+        <cliente>Juan</cliente>
+        <producto>cover</producto>
+        <cantidad>2</cantidad>
+        <precio>500.0</precio>
+        <total>1000.0</total>
+    </factura>
+    <factura>
+        <cliente>Pedro</cliente>
+        <producto>cover 2</producto>
+        <cantidad>3</cantidad>
+        <precio>500.0</precio>
+        <total>1500.0</total>
+    </factura>
+    <factura>
+        <cliente>Joel Pichardo</cliente>
+        <producto>Piña</producto>
+        <cantidad>2</cantidad>
+        <precio>100.0</precio>
+        <total>200.0</total>
+    </factura>
+    <factura>
+        <cliente>Julian</cliente>
+        <producto>Cerveza</producto>
+        <cantidad>2</cantidad>
+        <precio>250</precio>
+        <total>590.00</total>
+    </factura>
+    <factura>
+        <cliente>pedro</cliente>
+        <producto>lapiz</producto>
+        <cantidad>1</cantidad>
+        <precio>10</precio>
+        <total>11.80</total>
+    </factura>
+</facturas>

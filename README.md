@@ -1,8 +1,8 @@
-# Sistema de Facturación XML
+# FactSyst (Sistema de Facturación)
 
-Versión: 1.0.0
+Versión: 1.1.0
 
-Developed by: Joel Pichardo
+Developed by: Joel Pichardo (Keifer Joel)
 
 ## Tecnologías
 - Python
